@@ -5,6 +5,7 @@ Use the terminal to create simple notes
 ## Setup
 1. chmod +x setup.sh
 2. ./setup.sh
+3. restart terminal
 
 
 ## Alias
