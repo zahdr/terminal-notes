@@ -20,7 +20,7 @@ add the note "this is my first note"
 > an this is my first note
 
 show all notes
-> sd
+> sn
 
 delete note number 3
 > dn 3
